@@ -2,10 +2,10 @@
 
 Este proyecto es una aplicación básica cliente-servidor escrita en Java, que demuestra cómo implementar un servidor capaz de atender múltiples clientes de forma concurrente utilizando hilos (ExecutorService). La aplicación se compone de dos partes: un servidor que escucha conexiones en un puerto y procesa mensajes de varios clientes, y un cliente que envía mensajes al servidor y recibe respuestas.
 
-# Integrantes
+# Integrante
 
 - Talia Yaritza Gelvez Gelvez
-- Paula Andrea Ramirez Casilimas
+
 
 # Estructura de la Aplicación
 
